@@ -7,5 +7,6 @@ package com.itheima;
 public class qqq {
     public static void main(String[] args) {
         System.out.println("sjhdbvhsd");
+        System.out.println("jksdbjv");
     }
 }
